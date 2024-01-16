@@ -62,9 +62,7 @@ License
 
  This project is licensed under the MIT License - see the LICENSE.md file for details.
 ### Acknowledgments
-    The Django community for providing a robust web framework.
-    Contributors to open source packages used in this project.
-    Inspiration from other CRM systems and best practices in the industry.
+    
 
     The Django community for providing a robust web framework.
     Contributors to open source packages used in this project.
